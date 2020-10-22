@@ -1,0 +1,16 @@
+{
+    "name": "quete/composer",
+    "description": "",
+    "authors": [
+        {
+            "name": "Aline Denizot",
+            "email": "aline.denizot2@gmail.com"
+        }
+    ],
+    
+    "require": {},
+    "autoload": {
+        "psr-4" : {"App\\" : "src"}
+    }
+
+}
