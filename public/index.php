@@ -1,6 +1,6 @@
 <?php 
 
-require '../src/Wcs/Hello.php';
+require '../vendor/autoload.php';
 
 $hello = new App\Wcs\Hello;
 
